@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.github
+.cursor
+storage
+uploads
+.env
+.env.*
+!.env.example
+coverage
+*.md
+agent-transcripts
+landing
+docs
+Dockerfile*
+docker-compose*.yml
